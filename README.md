@@ -1,1 +1,2 @@
-# trex-game-2
+# Trex-colorful
+colorful interface
